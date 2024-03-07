@@ -92,6 +92,10 @@ git clone <link do repositório>
 
 # Acesse a pasta do projeto no seu terminal
 cd <nome do projeto>
+
+# Instalar dependências
+npm install
+
 # Execute a aplicação
 npm run dev
 
