@@ -91,8 +91,7 @@ Para uma melhor visualização do projeto, o aconselhado é que seja rodado atra
 git clone <link do repositório>
 
 # Acesse a pasta do projeto no seu terminal
-cd dinamic_linktree
-
+cd <nome do projeto>
 # Execute a aplicação
 npm run dev
 
